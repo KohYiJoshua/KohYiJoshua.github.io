@@ -1,3 +1,8 @@
+#wrapper {
+      width: 1680px;
+      margin:0 auto;
+}
+
 a {
   color: black;/* set the text color to blue here */
   text-decoration: none; /* This means we do not want hyperlinks to be underlined */
